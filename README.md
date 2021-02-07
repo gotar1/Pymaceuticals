@@ -41,12 +41,12 @@ Naftisol   54.331565  52.509285  66.173479  8.134708  0.596466
 throughout the course of the study.
 
 #### <a id="bar-chart"></a>Bar Chart
-![bar chart](../Images/bar.png)
+![bar chart](Images/bar.png)
 
 * Generated a pie plot using Matplotlib that shows the distribution of female or male mice in the study.
 
 #### <a id="pie-chart"></a>Pie Chart
-![pie chart](../Images/pie.png)
+![pie chart](Images/pie.png)
 
 * Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: 
 Capomulin, Ramicane, Infubinol, and Ceftamin.
@@ -56,17 +56,17 @@ Capomulin, Ramicane, Infubinol, and Ceftamin.
 and highlighted potential outliers in the plot.
 
 #### <a id="box-whisker-chart"></a>Box and Whisker chart
-![box chart](../Images/box.png)
+![box chart](Images/box.png)
 
 * Selected the mouse that was treated with Capomulin and generated a line plot of time point versus tumor volume for that mouse.
 
 #### <a id="line-chart"></a>Line Chart
-![line chart](../Images/line.png)
+![line chart](./Images/line.png)
 
 * Generated a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
 
 #### <a id="scatter-chart"></a>Scatter Chart
-![scatter chart](../Images/scatter.png)
+![scatter chart](Images/scatter.png)
 
 * Calculated the correlation coefficient and linear regression model between mouse weight and average tumor
 volume for the Capomulin treatment.
@@ -75,7 +75,8 @@ volume for the Capomulin treatment.
 The correlation coefficient is 0.95
 R squared is: 0.903
 y = 0.89x + 22.76
-![regression chart](../Images/corr.png)
+
+![regression chart](Images/corr.png)
 
 ## Conclusion
 
